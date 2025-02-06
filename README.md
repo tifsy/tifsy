@@ -1,9 +1,6 @@
-## Hi there 👋
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{tiffanyhansy}"/>
-</a>
-<!--
-**tiffanyhansy/tiffanyhansy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![header](https://capsule-render.vercel.app/api?type=waving&colortimeGradient=&height=300&section=header&text=Seungyeon%20Han&fontColor=ffffff&fontSize=80)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiffanyhansy&layout=compact&theme=dark)
 
 Here are some ideas to get you started:
 
