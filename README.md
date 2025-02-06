@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient=&height=300&section=header&text=Seungyeon%20Han&fontColor=ffffff&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Seungyeon%20Han&fontAlignY=40&fontColor=ffffff&fontSize=60)
 
 # Hello, I'm Seungyeon Han! 💎
 
@@ -75,7 +75,12 @@ I'm a passionate developer who thrives on learning new technologies and collabor
 - **Google DevFest Cloud 2023**: Staff 
 
 ## 📈 GitHub Stats  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tiffanyhansy&layout=compact&theme=one_dark_pro)  
+<div style="display: flex; justify-content: center; align-items: center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tiffanyhansy"  alt="GitHub Profile Trophy">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiffanyhansy&layout=compact&theme=one_dark_pro" alt="Top Languages">
+</div>
+
+
 
 ## 📫 Contact Me  
 
