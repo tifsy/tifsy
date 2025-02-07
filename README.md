@@ -66,7 +66,7 @@ I'm a passionate developer who thrives on learning new technologies and collabor
 - **ECC 49th - Ewha Programmer's Club**: Web Lead (Mar 2024 - Jun 2024)  
 - **Goormthon UNIV 2nd**: Web Part Member (Feb 2024 - Jun 2024)  
 - **ECC 48th - Ewha Programmer's Club**: Web Member (Aug 2023 - Feb 2024)  
-- **We-up Leaders Club - Organization for Cultivating Next-Generation Women Engineers**: Co-representative (Apr 2023 - Jan 2024)  
+- **We-up Leaders Club - Organization for Cultivating Next-Generation Women Engineers**: Representative (Apr 2023 - Jan 2024)  
 - **HoPy 3rd - Ewha Machine Learning and Deep Learning Club**: Mentor, Executive Team (Aug 2023 - Dec 2023)  
 - **HoPy 2nd - Ewha Machine Learning and Deep Learning Club**: Member (Mar 2023 - Aug 2023)
 
