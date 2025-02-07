@@ -47,8 +47,11 @@ I'm a passionate developer who thrives on learning new technologies and collabor
 ## 💼 Internship Experience  
 
 - **FPT Software Hanoi HQ - Global Internship** (Jul 2024 - Aug 2024)  
-  Participated in a global internship at FPT Software in Hanoi, Vietnam. Gained hands-on experience in cloud computing, AI, and automation.  
-  [Read more here](https://www.econovill.com/news/articleView.html?idxno=672992)
+  Participated in a global internship at FPT Software in Hanoi, Vietnam. Gained hands-on experience in cloud computing, AI, and automation.
+  [Youtube](https://www.youtube.com/watch?v=lK0Dy9Y3tNg&t=2s) /
+    [LinkedIn post](https://www.linkedin.com/posts/fpt-software_fpt-fptsoftware-fptglobalinternship-ugcPost-7231181585050390529-ZtQY/?utm_source) /
+    [Article](https://www.econovill.com/news/articleView.html?idxno=672992)
+
 
 ## 🎯 Projects & Interests  
 
