@@ -53,7 +53,7 @@ I'm a passionate developer who thrives on learning new technologies and collabor
     [Article](https://www.econovill.com/news/articleView.html?idxno=672992)
 
 
-## 🎯 Projects & Interests  
+## 🎯 Projects
 
 - **Mongsang (몽상)**: A dream visualization platform that converts users' dreams into AI-generated images. The service allows users (몽상가) to store, analyze, and even visualize their dreams into images.  [Mongsang](https://mongsang.netlify.app/)
 - **Developer Study Timer & Community (RunTime)**: A service designed for developers to track their study time and share reflections with others.
