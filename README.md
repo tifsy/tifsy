@@ -82,8 +82,8 @@ I'm a passionate developer who thrives on learning new technologies and collabor
 
 ## 📈 GitHub Stats  
 <div style="display: flex; justify-content: center; align-items: center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tiffanyhansy"  alt="GitHub Profile Trophy">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiffanyhansy&layout=compact&theme=one_dark_pro" alt="Top Languages">
+  <img src="https://github-profile-trophy.vercel.app/?username=tifsy"  alt="GitHub Profile Trophy">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tifsy&layout=compact&theme=one_dark_pro" alt="Top Languages">
 </div>
 
 
