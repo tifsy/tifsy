@@ -63,7 +63,6 @@ I'm a passionate developer who thrives on learning new technologies and collabor
 - **Pre** :  A service designed to support healthier pregnancies by providing personalized diet and condition solutions for expectant mothers. Submitted for Google Solution Challenge 2024
 
 ## 🌍 Community
-- **Google Developer Groups on Campus Ewha 7th**: (upcoming...)
 - **Programmers Devcourse Bootcamp**: Frontend Developer (Sep 2024 - Mar 2025)  
 - **KWiSE HQ at LA** (Korean-American Women in Science and Engineering): Member (Nov 2023 - Present)  
 - **HoPy 4th - Ewha Machine Learning and Deep Learning Club**: Co-representative (Dec 2023 - Sep 2024)  
