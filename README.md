@@ -2,11 +2,12 @@
 
 # Hello, I'm Seungyeon Han! 💎
 
-## 🚀 About Me  
-I'm a passionate developer who thrives on learning new technologies and collaborating with like-minded individuals. I enjoy building innovative solutions and contributing to both personal and team projects.  
+## 🚀 About Me
 
-## 🛠️ Tech Stack  
- 
+I'm a passionate developer who thrives on learning new technologies and collaborating with like-minded individuals. I enjoy building innovative solutions and contributing to both personal and team projects.
+
+## 🛠️ Tech Stack
+
 ### Familiar With
 
 <p align="left">
@@ -37,6 +38,7 @@ I'm a passionate developer who thrives on learning new technologies and collabor
 </p>
 
 ### Tools
+
 <p align="left">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/GitLab-FCA120?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
@@ -45,50 +47,50 @@ I'm a passionate developer who thrives on learning new technologies and collabor
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
 </p>
 
-
-## 💼 Internship Experience  
+## 💼 Internship Experience
 
 - **FPT Software Hanoi HQ - Global Internship** (Jun 2024 - Aug 2024)  
   Participated in a global internship at FPT Software in Hanoi, Vietnam. Gained hands-on experience in cloud computing, AI, and automation.
   [Youtube](https://www.youtube.com/watch?v=lK0Dy9Y3tNg&t=2s) /
-    [LinkedIn post](https://www.linkedin.com/posts/fpt-software_fpt-fptsoftware-fptglobalinternship-ugcPost-7231181585050390529-ZtQY/?utm_source) /
-    [Article](https://www.econovill.com/news/articleView.html?idxno=672992)
-
+  [LinkedIn post](https://www.linkedin.com/posts/fpt-software_fpt-fptsoftware-fptglobalinternship-ugcPost-7231181585050390529-ZtQY/?utm_source) /
+  [Article](https://www.econovill.com/news/articleView.html?idxno=672992)
 
 ## 🎯 Projects
+
 - **36.5 (따숨)**: An anonymous letter exchange platform where users can share their honest thoughts and receive heartfelt replies. With dual filtering by AI and moderators, privacy and safety are ensured. Users can also connect through a shared story board and a rolling paper message board to spread warmth. 🏆 Best Project Award – Programmers DevCourse [36.5](www.ddasum.kr)
 
-- **Mongsang (몽상)**: A dream visualization platform that converts users' dreams into AI-generated images. The service allows users (몽상가) to store, analyze, and even visualize their dreams into images.  [Mongsang](https://mongsang.netlify.app/)
+- **Mongsang (몽상)**: A dream visualization platform that converts users' dreams into AI-generated images. The service allows users (몽상가) to store, analyze, and even visualize their dreams into images. [Mongsang](https://mongsang.netlify.app/)
 - **Developer Study Timer & Community (RunTime)**: A service designed for developers to track their study time and share reflections with others.
-- **Pre** :  A service designed to support healthier pregnancies by providing personalized diet and condition solutions for expectant mothers. Submitted for Google Solution Challenge 2024
+- **Pre** : A service designed to support healthier pregnancies by providing personalized diet and condition solutions for expectant mothers. Submitted for Google Solution Challenge 2024
 
 ## 🌍 Community
-- **Programmers Devcourse Bootcamp**: Frontend Developer (Sep 2024 - Mar 2025)  
-- **KWiSE HQ at LA** (Korean-American Women in Science and Engineering): Member (Nov 2023 - Present)  
-- **HoPy 4th - Ewha Machine Learning and Deep Learning Club**: Co-representative (Dec 2023 - Sep 2024)  
-- **Google Developer Student Clubs Ewha 5th**: Web Member (Jul 2023 - Jul 2024)  
-- **Code-it Boost 1st**: Frontend Runner (Mar 2024 - Jun 2024)  
-- **ECC 49th - Ewha Programmer's Club**: Web Lead (Mar 2024 - Jun 2024)  
-- **Goormthon UNIV 2nd**: Web Part Member (Feb 2024 - Jun 2024)  
-- **ECC 48th - Ewha Programmer's Club**: Web Member (Aug 2023 - Feb 2024)  
-- **We-up Leaders Club - Organization for Cultivating Next-Generation Women Engineers**: Representative (Apr 2023 - Jan 2024)  
-- **HoPy 3rd - Ewha Machine Learning and Deep Learning Club**: Mentor, Executive Team (Aug 2023 - Dec 2023)  
+
+- **Programmers Devcourse Bootcamp**: Frontend Developer (Sep 2024 - Mar 2025)
+- **KWiSE HQ at LA** (Korean-American Women in Science and Engineering): Member (Nov 2023 - Present)
+- **HoPy 4th - Ewha Machine Learning and Deep Learning Club**: Co-representative (Dec 2023 - Sep 2024)
+- **Google Developer Student Clubs Ewha 5th**: Web Member (Jul 2023 - Jul 2024)
+- **Code-it Boost 1st**: Frontend Runner (Mar 2024 - Jun 2024)
+- **ECC 49th - Ewha Programmer's Club**: Web Lead (Mar 2024 - Jun 2024)
+- **Goormthon UNIV 2nd**: Web Part Member (Feb 2024 - Jun 2024)
+- **ECC 48th - Ewha Programmer's Club**: Web Member (Aug 2023 - Feb 2024)
+- **We-up Leaders Club - Organization for Cultivating Next-Generation Women Engineers**: Representative (Apr 2023 - Jan 2024)
+- **HoPy 3rd - Ewha Machine Learning and Deep Learning Club**: Mentor, Executive Team (Aug 2023 - Dec 2023)
 - **HoPy 2nd - Ewha Machine Learning and Deep Learning Club**: Member (Mar 2023 - Aug 2023)
 
 ## 👥 Events
-- **Innovator's Hive Seoul 2024**: Organizer
-- **Google DevFest Cloud 2023**: Staff 
 
-## 📈 GitHub Stats  
+- **Innovator's Hive Seoul 2024**: Organizer
+- **Google DevFest Cloud 2023**: Staff
+
+## 📈 GitHub Stats
+
 <div style="display: flex; justify-content: center; align-items: center">
   <img src="https://github-profile-trophy.vercel.app/?username=tifsy"  alt="GitHub Profile Trophy">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tifsy&layout=compact&theme=one_dark_pro" alt="Top Languages">
 </div>
 
+## 📫 Contact Me
 
-
-## 📫 Contact Me  
-
-- Email: tiffanyhansy@gmail.com  
-- Technical Blog: [tistory](https://tiff.tistory.com/)  
-- LinkedIn: [linkedin.com/in/tiffanyhansy](https://linkedin.com/in/tiffanyhansy)  
+- Email: tiffanyhansy@gmail.com
+- Technical Blog: [tistory](https://tiff.tistory.com/)
+- LinkedIn: [linkedin.com/in/tiffanyhansy](https://linkedin.com/in/tiffanyhansy)
