@@ -8,7 +8,7 @@ I'm a passionate developer who thrives on learning new technologies and collabor
 
 ## 🛠️ Tech Stack
 
-### Familiar With
+### Familiar With 
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
