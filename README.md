@@ -2,7 +2,7 @@
 
 # Hello, I'm Seungyeon Han! 💎
 
-## 🚀 About Me
+## 🚀 About Me 
 
 I'm a passionate developer who thrives on learning new technologies and collaborating with like-minded individuals. I enjoy building innovative solutions and contributing to both personal and team projects.
 
