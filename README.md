@@ -58,7 +58,7 @@ I'm a passionate developer who thrives on learning new technologies and collabor
 
 ## 🎯 Projects
 
-- **36.5 (따숨)**: An anonymous letter exchange platform where users can share their honest thoughts and receive heartfelt replies. With dual filtering by AI and moderators, privacy and safety are ensured. Users can also connect through a shared story board and a rolling paper message board to spread warmth. 🏆 Best Project Award – Programmers DevCourse [36.5](www.ddasum.kr)
+- **36.5 (따숨)**: An anonymous letter exchange platform where users can share their honest thoughts and receive heartfelt replies. With dual filtering by AI and moderators, privacy and safety are ensured. Users can also connect through a shared story board and a rolling paper message board to spread warmth. 🏆 Best Project Award – Programmers DevCourse [36.5](https://www.ddasum.kr/)
 
 - **Mongsang (몽상)**: A dream visualization platform that converts users' dreams into AI-generated images. The service allows users (몽상가) to store, analyze, and even visualize their dreams into images. [Mongsang](https://mongsang.netlify.app/)
 - **Developer Study Timer & Community (RunTime)**: A service designed for developers to track their study time and share reflections with others.
