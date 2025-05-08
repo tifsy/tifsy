@@ -66,7 +66,7 @@ I'm a passionate developer who thrives on learning new technologies and collabor
 
 ## 🌍 Community
 
-- **CMC 17th - Central MakeUs Challenge**: Web Frontend Developer (May 2025 - )
+- **CMC 17th - Central MakeUs Challenge**: Web Developer (May 2025 - )
 - **Programmers Devcourse Bootcamp**: Web Frontend Developer (Sep 2024 - Mar 2025)
 - **KWiSE HQ at LA - Korean-American Women in Science and Engineering**: Member (Nov 2023 - )
 - **HoPy 4th - Ewha Machine Learning and Deep Learning Club**: Co-representative (Dec 2023 - Sep 2024)
