@@ -50,10 +50,10 @@ I'm a passionate developer who thrives on learning new technologies and collabor
 
 ## 💼 Internship Experience
 
-- **Toss(Viva Republica)** - QA Assistant (May 2025 - )
+- **Toss (Viva Republica) - QA Assistant** (May 2025 - )
 
-- **FPT Software Hanoi HQ - Global Internship** (Jun 2024 - Aug 2024)  
-  Participated in a global internship at FPT Software in Hanoi, Vietnam. Gained hands-on experience in cloud computing, AI, and automation.
+- **FPT Software Hanoi HQ - Frontend Engineer Intern** (Jun 2024 - Aug 2024)  
+  Participated in a global internship at FPT Software in Hanoi, Vietnam. Gained hands-on experience in frontend development and AI.
   [Youtube](https://www.youtube.com/watch?v=lK0Dy9Y3tNg&t=2s) /
   [LinkedIn post](https://www.linkedin.com/posts/fpt-software_fpt-fptsoftware-fptglobalinternship-ugcPost-7231181585050390529-ZtQY/?utm_source) /
   [Article](https://www.econovill.com/news/articleView.html?idxno=672992)
