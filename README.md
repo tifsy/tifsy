@@ -48,8 +48,9 @@ I'm a passionate developer who thrives on learning new technologies and collabor
 </p>
 
 ## 💼 Internship Experience
+- **Toss (Viva Republica) - QA Assistant** (May 2025 - )
 
-- **FPT Software Hanoi HQ - Global Internship** (Jun 2024 - Aug 2024)  
+- **FPT Software - Global Internship Frontend Engineer** (Jun 2024 - Aug 2024)  
   Participated in a global internship at FPT Software in Hanoi, Vietnam. Gained hands-on experience in cloud computing, AI, and automation.
   [Youtube](https://www.youtube.com/watch?v=lK0Dy9Y3tNg&t=2s) /
   [LinkedIn post](https://www.linkedin.com/posts/fpt-software_fpt-fptsoftware-fptglobalinternship-ugcPost-7231181585050390529-ZtQY/?utm_source) /
@@ -80,12 +81,12 @@ I'm a passionate developer who thrives on learning new technologies and collabor
 ## 👥 Events
 
 - **Innovator's Hive Seoul 2024**: Organizer
+- **Google Developer Student Clubs Snowflowerthon 2024**: Staff
 - **Google DevFest Cloud 2023**: Staff
 
 ## 📈 GitHub Stats
 
 <div style="display: flex; justify-content: center; align-items: center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tifsy"  alt="GitHub Profile Trophy">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tifsy&layout=compact&theme=one_dark_pro" alt="Top Languages">
 </div>
 
