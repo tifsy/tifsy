@@ -84,6 +84,7 @@ I'm a passionate developer who thrives on learning new technologies and collabor
 ## 👥 Events
 
 - **Innovator's Hive Seoul 2024**: Organizer
+- **GDSC snowflowerthon 2024**: Staff
 - **Google DevFest Cloud 2023**: Staff
 
 ## 📈 GitHub Stats
