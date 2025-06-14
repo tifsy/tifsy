@@ -19,6 +19,8 @@ I'm a passionate developer who thrives on learning new technologies and collabor
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Zustand-8B48E6?style=for-the-badge&logo=zustand&logoColor=white" alt="Zustand" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/TestRail-5C5C5C?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgdmlld0JveD0iMCAwIDMyIDMyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0yNiAzMEg2Yy0xLjEgMC0yLS45LTItMlY0YzAtMS4xLjktMiAyLTJoMjBjMS4xIDAgMiAuOSAyIDJ2MjRjMCAxLjEtLjkgMi0yIDJ6bS05LjEtMTEuN2MuNi40IDEuMiAxIDEuNiAxLjcgMi40LjQgNC4xIDIuNyA0LjEgNS41IDAgMy4xLTIuNSA1LjYtNS42IDUuNi0xLjcuMS0zLjMtLjUtNC40LTEuNS0xIC0uOS0xLjUtMi4yLTEuNS0zLjcgMC0yLjIgMS43LTQuMiA0LjEtNS40LjQtLjYgMS4xLTEuMyAxLjYtMS43LjctLjYgMS4xLTEuNCAxLjEtMi40IDAtMi0xLjctMy43LTMuNy0zLjctMiAwLTMuNyAxLjctMy43IDMuNyAwIDEgLjQgMS44IDEgMi40LjUuNCAxLjEgMS4xIDEuNiAxLjd6Ii8+PC9zdmc+" alt="TestRail" />
+
 
 </p>
 
@@ -46,6 +48,7 @@ I'm a passionate developer who thrives on learning new technologies and collabor
   <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure DevOps" />
   <img src="https://img.shields.io/badge/Slack-E01E5A?style=for-the-badge&logo=slack&logoColor=white" alt="Slack" />
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" alt="Confluence" />
 </p>
 
 ## 💼 Internship Experience
