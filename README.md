@@ -70,7 +70,8 @@ I'm a passionate developer who thrives on learning new technologies and collabor
 - **Pre** : A service designed to support healthier pregnancies by providing personalized diet and condition solutions for expectant mothers. Submitted for Google Solution Challenge 2024
 
 ## 🌍 Community
-- **YEHS - Young Engineer Honor Society by National Academy of Engineering of Korea (NAEK)**: Member (July 2025 -)
+- **Google Developer Student Clubs Ewha 7th**: Lead (August 2025 - )
+- **YEHS - Young Engineer Honor Society by National Academy of Engineering of Korea (NAEK)**: Member (July 2025 - )
 - **CMC 17th - Central MakeUs Challenge**: Web Challenger (May 2025 - )
 - **Programmers Devcourse Bootcamp**: Web Frontend Developer (Sep 2024 - Mar 2025)
 - **KWiSE HQ at LA - Korean-American Women in Science and Engineering**: Member (Nov 2023 - )
