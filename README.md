@@ -53,7 +53,7 @@ I'm a passionate developer who thrives on learning new technologies and collabor
 
 ## 💼 Internship Experience
 
-- **Toss (Viva Republica) - QA Assistant** (May 2025 - Aug 2025)
+- **Toss (Viva Republica) - QA Assistant** (May 2025 - Aug 2025)    
   Functional tested and validated Toss mobile app (10M+ DAU) pre-release using TestRail, Jira, and Confluence, reporting defects and proposing improvements.
 
 - **FPT Software Hanoi HQ - Frontend Engineer Intern** (Jun 2024 - Aug 2024)  
