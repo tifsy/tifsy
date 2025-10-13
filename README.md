@@ -4,7 +4,9 @@
   
 ## 🚀 About Me 
 
-I'm a passionate developer who thrives on learning new technologies and collaborating with like-minded individuals. I enjoy building innovative solutions and contributing to both personal and team projects.
+Currently majoring in Computer Science and Engineering at Ewha Womans University.
+I began my journey in software development with a strong interest in frontend engineering, gained practical experience in quality assurance, and am now conducting Medical AI research as part of my thesis.
+Passionate about tech communities and deeply interested in Developer Relations and global opportunities in tech.
 
 ## 🛠️ Tech Stack 
 
